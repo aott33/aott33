@@ -6,6 +6,7 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/3df811dd-0055-4e08-8073-6ec395080f9a/thumbnail" >
 </p>
+
 ---
 
 ### 🧰 Languages and Tools
