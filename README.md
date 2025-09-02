@@ -9,6 +9,9 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
    <img src="https://api.boot.dev/v1/users/public/3df811dd-0055-4e08-8073-6ec395080f9a/thumbnail" >
   </a>
 </p>
+
+---
+### 🧰 Languages and Tools
  
 ### 🤝 I’m looking to collaborate on ...
 - Projects that modernize industrial automation through open source solutions following software development best practices (CI/CD, testing, documentation, version control)
