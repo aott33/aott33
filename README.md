@@ -7,7 +7,7 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,21 +21,21 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 
 #
  
-### 🤝 I’m looking to collaborate on ...
+### I’m looking to collaborate on ...
 - Projects that modernize industrial automation through open source solutions following software development best practices (CI/CD, testing, documentation, version control)
 - Industrial IoT and Edge computing initiatives
 - SCADA/HMI modernization projects
 
 #
  
-### 🚀 Cool Projects that inspire me ...
+### Cool Projects that inspire me ...
 - [JoyAutomation - Tentacle PLC](https://github.com/joyautomation/tentacle)
 - [SASE - Open Process Library](https://github.com/SASE-Space/open-process-library)
 - [UMH - United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
 
 #
 
-### 📝 2025 Goals
+### 2025 Goals
 - [ ] Recertify Ignition Gold Certification
 - [ ] Complete Boot.dev Backend Developer Path
 - [x] Complete [AWS Cloud Essentials Knowledge Badge](https://www.credly.com/badges/4ebe8d91-6b3c-4a45-913a-eb64cf672018/public_url)
