@@ -14,8 +14,8 @@ My name is Andrew. I am a SCADA Developer with 6 years of experience in industri
 - SCADA/HMI modernization projects
  
 ### 🚀 Cool Projects that inspire me ...
-- [JoyAutomation Tentacle PLC](https://github.com/joyautomation/tentacle)
-- [SASE Open Process Library](https://github.com/SASE-Space/open-process-library)
+- [JoyAutomation - Tentacle PLC](https://github.com/joyautomation/tentacle)
+- [SASE - Open Process Library](https://github.com/SASE-Space/open-process-library)
 - [UMH - United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
  
 ### 📝 2025 Goals
