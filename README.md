@@ -20,7 +20,7 @@ My name is Andrew. I am a SCADA Developer building my backend developer skills.
   - [ ] Recertify Ignition Gold Certification
   - [ ] Complete Boot.dev Backend Developer Path
   - [x] Complete [AWS Cloud Essentials Knowledge Badge](https://www.credly.com/badges/4ebe8d91-6b3c-4a45-913a-eb64cf672018/public_url)
-  - [ ] Complete AWS Solutions Architecht Certification
+  - [ ] Complete AWS Solutions Architect Certification
   - [ ] Litmus Automation Training
     - [ ] [Litmus User Certificate](https://academy.litmus.io/certifications/01c1b6fe-0983-11ef-8eec-06d2e6005cb5)
     - [ ] [Litmus UNS Certificate](https://academy.litmus.io/certifications/019092c6-729b-70ef-b1af-e18b828df1a0)
