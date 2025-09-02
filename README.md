@@ -35,8 +35,10 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 
 #
 
+### Goals
+
 <details>
-  <summary><h3>2025 Goals</h3></summary>
+  <summary>2025</summary>
   
 - [ ] Recertify Ignition Gold Certification
 - [ ] Complete Boot.dev Backend Developer Path
