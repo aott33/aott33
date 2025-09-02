@@ -14,6 +14,7 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <br />
@@ -24,12 +25,16 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 - Projects that modernize industrial automation through open source solutions following software development best practices (CI/CD, testing, documentation, version control)
 - Industrial IoT and Edge computing initiatives
 - SCADA/HMI modernization projects
+
+#
  
 ### 🚀 Cool Projects that inspire me ...
 - [JoyAutomation - Tentacle PLC](https://github.com/joyautomation/tentacle)
 - [SASE - Open Process Library](https://github.com/SASE-Space/open-process-library)
 - [UMH - United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
- 
+
+#
+
 ### 📝 2025 Goals
 - [ ] Recertify Ignition Gold Certification
 - [ ] Complete Boot.dev Backend Developer Path
