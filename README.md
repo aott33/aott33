@@ -35,9 +35,7 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 
 #
 
-<details>
-  <summary>
-    <h3>2025 Goals</h3>
+### 2025 Goals
 - [ ] Recertify Ignition Gold Certification
 - [ ] Complete Boot.dev Backend Developer Path
 - [x] Complete [AWS Cloud Essentials Knowledge Badge](https://www.credly.com/badges/4ebe8d91-6b3c-4a45-913a-eb64cf672018/public_url)
@@ -50,7 +48,3 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 - [ ] FlowFuse Training
   - [x] [Node-RED: Fundamentals](https://node-red-academy.learnworlds.com/certificate_v2/678e616a37ba03daa406638f/user/68af32b83cf7f915f00d2b34)
   - [ ] [Node-RED: Advanced](https://node-red-academy.learnworlds.com/course/node-red-advanced)
-  </summary>
-</details>
-### 
-
