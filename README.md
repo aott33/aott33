@@ -4,6 +4,9 @@ My name is Andrew. I am a SCADA Developer with 6 years of experience in industri
 
 ### 🔭 I’m currently working...
  - [boot.dev](https://www.boot.dev/u/aott33) Backend Developer Path (Python & Go)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/3df811dd-0055-4e08-8073-6ec395080f9a/thumbnail" >
+</p>
 
 ### 🌱 I’m currently learning ...
 - Cloud Compute (AWS & GCP)
