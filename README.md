@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew. I am a SCADA Developer building my backend developer skills.
+My name is Andrew. I am a SCADA Developer with 6 years of experience in industrial automation, currently building my backend developer skills to bridge the gap between operational technology and modern software practices.
 
 - 🔭 I’m currently working...
   - [boot.dev](https://www.boot.dev/u/aott33) Backend Developer Path (Python & Go)
@@ -9,7 +9,9 @@ My name is Andrew. I am a SCADA Developer building my backend developer skills.
   - Cloud Compute (AWS & GCP)
  
 - 🤝 I’m looking to collaborate on ...
-  - Projects that help improve the industrial automation landscape by bringing more open source projects that follow software development best practices
+  - Projects that modernize industrial automation through open source solutions following software development best practices (CI/CD, testing, documentation, version control)
+  - Industrial IoT and Edge computing initiatives
+  - SCADA/HMI modernization projects
  
 - 🚀 Cool Projects that inspire me ...
   - [JoyAutomation Tentacle PLC](https://github.com/joyautomation/tentacle)
