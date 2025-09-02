@@ -16,7 +16,7 @@ My name is Andrew. I am a SCADA Developer building my backend developer skills.
   - [SASE Open Process Library](https://github.com/SASE-Space/open-process-library)
   - [UMH - United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
  
-- 2025 Goals
+- 📝 2025 Goals
   - [ ] Recertify Ignition Gold Certification
   - [ ] Complete Boot.dev Backend Developer Path
   - [x] Complete [AWS Cloud Essentials Knowledge Badge](https://www.credly.com/badges/4ebe8d91-6b3c-4a45-913a-eb64cf672018/public_url)
