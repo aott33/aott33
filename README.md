@@ -2,7 +2,9 @@
 
 I am a SCADA Developer with 6 years of experience in industrial automation, currently building my backend developer skills to bridge the gap between operational technology and modern software practices. I’m currently working on the [boot.dev](https://www.boot.dev) Backend Developer Path (Python & Go).
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/3df811dd-0055-4e08-8073-6ec395080f9a/thumbnail" >
+  <a href="https://www.boot.dev/u/aott33">
+    <img src="https://api.boot.dev/v1/users/public/3df811dd-0055-4e08-8073-6ec395080f9a/thumbnail" >
+  </a>
 </p>
 
 ---
