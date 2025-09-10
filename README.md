@@ -36,7 +36,7 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 - [UMH - United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
 
 #
-
+<!--
 ### Goals
 
 <details>
@@ -56,3 +56,4 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
   - [ ] [Node-RED: Advanced](https://node-red-academy.learnworlds.com/course/node-red-advanced)
 
 </details>
+-->
