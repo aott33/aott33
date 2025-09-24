@@ -21,6 +21,10 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript"/>
 <br />
 
+---
+<a href="https://github.com/aott33"><img src="https://github-readme-stats.vercel.app/api?username=aott33&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="aott33" /></a>
+<a href="https://github.com/aott33"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aott33&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="aott33" /></a>
+
 #
  
 ### I’m looking to collaborate on ...
