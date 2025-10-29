@@ -22,7 +22,6 @@ I am a SCADA Developer with 6 years of experience in industrial automation, curr
 <br />
 <br />
 <a href="https://github.com/aott33"><img src="https://github-readme-stats-henna-nine-12.vercel.app/api/top-langs?username=aott33&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="aott33" /></a>
-
 #
  
 ### I’m looking to collaborate on ...
